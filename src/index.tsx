@@ -1,26 +1,17 @@
 import { render } from 'preact'
 
-import useDataLoader from '@arcadia/hooks/useDataLoader'
+import Main from './app/Main'
+import Providers from './providers'
 
 import './style.css'
+import 'primereact/resources/themes/lara-light-indigo/theme.css' //theme
+import 'primereact/resources/primereact.min.css' //core css
 
 export function App() {
-    const { data, isLoading, error } = useDataLoader('2025')
-
-    if (isLoading) {
-        return <div>Loading...</div>
-    }
-
-    if (error) {
-        return <div>Error: ${error.message}</div>
-    }
-
     return (
-        <div>
-            {data.map((entry) => (
-                <div key={entry.id}>{entry.title}</div>
-            ))}
-        </div>
+        <Providers>
+            <Main />
+        </Providers>
     )
 }
 
