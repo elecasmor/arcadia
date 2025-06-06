@@ -11,7 +11,15 @@ export default tseslint.config(
         rules: {
             'simple-import-sort/imports': [
                 'error',
-                { groups: [['^react$', '^@?\\w'], ['^@arcadia/*']] },
+                {
+                    groups: [
+                        ['^react$', '^@?\\w'],
+                        ['^@arcadia/*'],
+                        ['^\\./'],
+                        ['^.+\\.(module.css|module.scss)$'],
+                        ['^.+\\.(gif|png|svg|jpg)$'],
+                    ],
+                },
             ],
         },
     }
