@@ -7,14 +7,19 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@tailwindcss/vite": "^4.1.8",
+		"date-fns": "^4.1.0",
+		"lucide-react": "^0.513.0",
 		"preact": "^10.25.3",
-		"primereact": "^10.9.6"
+		"primereact": "^10.9.6",
+		"tailwindcss": "^4.1.8"
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.28.0",
 		"@preact/preset-vite": "^2.9.3",
 		"@types/lodash": "^4.17.17",
 		"@typescript-eslint/parser": "^8.33.1",
+		"clsx": "^2.1.1",
 		"eslint": "^9.28.0",
 		"eslint-config-prettier": "^10.1.5",
 		"eslint-plugin-react": "^7.37.5",

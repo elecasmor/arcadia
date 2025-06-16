@@ -1,11 +1,13 @@
-import { Card } from 'primereact/card'
 import { Message } from 'primereact/message'
 import { ProgressSpinner } from 'primereact/progressspinner'
 
-import useDataLoader from '@arcadia/hooks/useDataLoader'
+import useDataLoader from '@arcadia/hooks/data-loader/useDataLoader'
+import { Footer } from '@arcadia/layout/Footer'
+import { Header } from '@arcadia/layout/Header'
+import { List } from '@arcadia/views/List/List'
 
 export default function Main() {
-    const { data, isLoading, error } = useDataLoader('2025')
+    const { data, isLoading, error, countByCategory } = useDataLoader('2025')
 
     if (isLoading) {
         return <ProgressSpinner />
@@ -16,12 +18,12 @@ export default function Main() {
     }
 
     return (
-        <div>
-            {data.map((entry) => (
-                <Card title={entry.category} key={entry.id}>
-                    <p className="m-0">{entry.title}</p>
-                </Card>
-            ))}
+        <div className="w-[85%] lg:w-[65%] flex flex-col mx-auto">
+            <div className="flex flex-col flex-1">
+                <Header />
+                <List data={data} countByCategory={countByCategory} />
+                <Footer />
+            </div>
         </div>
     )
 }
