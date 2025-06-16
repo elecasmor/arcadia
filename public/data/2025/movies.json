@@ -1,7 +1,250 @@
 [
   {
     "id": "2025-movies-001",
-    "title": "Dune (2021)",
-    "date": "11-03"
+    "title": "Heretic",
+    "review": 2.5,
+    "date": "12-01",
+    "moreInfoURL": "https://www.imdb.com/title/tt28015403"
+  },
+  {
+    "id": "2025-movies-002",
+    "title": "Cuando acecha la maldad",
+    "review": 3,
+    "date": "17-01",
+    "moreInfoURL": "https://www.imdb.com/title/tt16300962"
+  },
+  {
+    "id": "2025-movies-003",
+    "title": "Canina",
+    "review": 3,
+    "date": "25-01",
+    "moreInfoURL": "https://www.imdb.com/title/tt12810074"
+  },
+  {
+    "id": "2025-movies-004",
+    "title": "La acompañante",
+    "review": 3,
+    "date": "01-02",
+    "moreInfoURL": "https://www.imdb.com/title/tt26584495"
+  },
+  {
+    "id": "2025-movies-005",
+    "title": "Emilia Pérez",
+    "review": 2.5,
+    "date": "04-02",
+    "moreInfoURL": "https://www.imdb.com/title/tt20221436"
+  },
+  {
+    "id": "2025-movies-006",
+    "title": "Flow",
+    "review": 5,
+    "date": "14-02",
+    "moreInfoURL": "https://www.imdb.com/title/tt4772188"
+  },
+  {
+    "id": "2025-movies-007",
+    "title": "Capitán América: Brave New World",
+    "review": 0,
+    "date": "15-02",
+    "moreInfoURL": "https://www.imdb.com/title/tt14513804"
+  },
+  {
+    "id": "2025-movies-008",
+    "title": "Nunca te sueltes",
+    "review": 2,
+    "date": "22-02",
+    "moreInfoURL": "https://www.imdb.com/title/tt14415204"
+  },
+  {
+    "id": "2025-movies-009",
+    "title": "Cónclave",
+    "review": 4,
+    "date": "25-02",
+    "moreInfoURL": "https://www.imdb.com/title/tt20215234"
+  },
+  {
+    "id": "2025-movies-010",
+    "title": "The Brutalist",
+    "review": 3,
+    "date": "01-03",
+    "moreInfoURL": "https://www.imdb.com/title/tt8999762"
+  },
+  {
+    "id": "2025-movies-011",
+    "title": "The Monkey",
+    "review": 2.5,
+    "date": "02-03",
+    "moreInfoURL": "https://www.imdb.com/title/tt27714946"
+  },
+  {
+    "id": "2025-movies-012",
+    "title": "Mickey 17",
+    "review": 2.5,
+    "date": "22-03",
+    "moreInfoURL": "https://www.imdb.com/title/tt12299608"
+  },
+  {
+    "id": "2025-movies-013",
+    "title": "Anora",
+    "review": 2.5,
+    "date": "23-03",
+    "moreInfoURL": "https://www.imdb.com/title/tt28607951"
+  },
+  {
+    "id": "2025-movies-014",
+    "title": "El 47",
+    "review": 4,
+    "date": "28-03",
+    "moreInfoURL": "https://www.imdb.com/title/tt27751957"
+  },
+  {
+    "id": "2025-movies-015",
+    "title": "Terrifier 3",
+    "review": 1,
+    "date": "29-03",
+    "moreInfoURL": "https://www.imdb.com/title/tt27911000"
+  },
+  {
+    "id": "2025-movies-016",
+    "title": "They/Them",
+    "review": 1,
+    "date": "29-03",
+    "moreInfoURL": "https://www.imdb.com/title/tt14502344"
+  },
+  {
+    "id": "2025-movies-017",
+    "title": "Diabólica",
+    "review": 0,
+    "date": "05-04",
+    "moreInfoURL": "https://www.imdb.com/title/tt24577462"
+  },
+  {
+    "id": "2025-movies-018",
+    "title": "La infiltrada",
+    "review": 2.5,
+    "date": "19-04",
+    "moreInfoURL": "https://www.imdb.com/title/tt29270150"
+  },
+  {
+    "id": "2025-movies-019",
+    "title": "Priscilla",
+    "review": 2.5,
+    "date": "19-04",
+    "moreInfoURL": "https://www.imdb.com/title/tt22041854"
+  },
+  {
+    "id": "2025-movies-020",
+    "title": "Los pecadores",
+    "review": 5,
+    "date": "21-04",
+    "moreInfoURL": "https://www.imdb.com/title/tt31193180"
+  },
+  {
+    "id": "2025-movies-021",
+    "title": "The End",
+    "review": 4,
+    "date": "26-04",
+    "moreInfoURL": "https://www.imdb.com/title/tt15551346"
+  },
+  {
+    "id": "2025-movies-022",
+    "title": "Dream Scenario",
+    "review": 2,
+    "date": "26-04",
+    "moreInfoURL": "https://www.imdb.com/title/tt21942866"
+  },
+  {
+    "id": "2025-movies-023",
+    "title": "La buena letra",
+    "review": 4,
+    "date": "04-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt32561334"
+  },
+  {
+    "id": "2025-movies-024",
+    "title": "Thunderbolts*",
+    "review": 2.5,
+    "date": "05-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt20969586"
+  },
+  {
+    "id": "2025-movies-025",
+    "title": "Lo que la verdad esconde",
+    "review": 3,
+    "date": "11-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt0161081"
+  },
+  {
+    "id": "2025-movies-026",
+    "title": "Misión imposible",
+    "review": 3,
+    "date": "17-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt0117060",
+    "isRewatch": true
+  },
+  {
+    "id": "2025-movies-027",
+    "title": "Misión imposible 2",
+    "review": 0,
+    "date": "17-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt0120755"
+  },
+  {
+    "id": "2025-movies-028",
+    "title": "Misión imposible 3",
+    "review": 2,
+    "date": "25-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt0317919"
+  },
+  {
+    "id": "2025-movies-029",
+    "title": "Misión imposible: Protocolo fantasma",
+    "review": 2.5,
+    "date": "25-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt1229238"
+  },
+  {
+    "id": "2025-movies-030",
+    "title": "Lilo & Stitch",
+    "version": "live-action",
+    "review": 2.5,
+    "date": "27-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt11655566"
+  },
+  {
+    "id": "2025-movies-031",
+    "title": "Misión imposible: Nación secreta",
+    "review": 2.5,
+    "date": "31-05",
+    "moreInfoURL": "https://www.imdb.com/title/tt2381249"
+  },
+  {
+    "id": "2025-movies-032",
+    "title": "De naturaleza violenta",
+    "review": 2.5,
+    "date": "07-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt30321146"
+  },
+  {
+    "id": "2025-movies-033",
+    "title": "El exorcismo de Eastfield",
+    "review": 3.5,
+    "date": "14-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt16296308"
+  },
+  {
+    "id": "2025-movies-034",
+    "title": "Misión imposible: Fallout",
+    "review": 2.5,
+    "date": "15-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt4912910"
+  },
+  {
+    "id": "2025-movies-035",
+    "title": "Cómo entrenar a tu dragón",
+    "version": "live-action",
+    "review": 2.5,
+    "date": "15-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt26743210"
   }
 ]

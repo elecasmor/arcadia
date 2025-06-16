@@ -1,7 +1,31 @@
 [
   {
     "id": "2025-games-001",
-    "title": "Elden Ring",
-    "date": "15-03"
+    "title": "Baldur's Gate 3",
+    "review": 5,
+    "date": "25-01",
+    "moreInfoURL": "https://www.igdb.com/games/baldurs-gate-3"
+  },
+  {
+    "id": "2025-games-002",
+    "title": "Resident Evil 4",
+    "version": "remake",
+    "review": 4,
+    "date": "25-01",
+    "moreInfoURL": "https://www.igdb.com/games/resident-evil-4--1"
+  },
+  {
+    "id": "2025-games-003",
+    "title": "As Far as the Eye",
+    "review": 3,
+    "date": "17-03",
+    "moreInfoURL": "https://www.igdb.com/games/as-far-as-the-eye"
+  },
+  {
+    "id": "2025-games-004",
+    "title": "The Legend of Zelda: Echoes of Wisdom",
+    "review": 3,
+    "date": "08-06",
+    "moreInfoURL": "https://www.igdb.com/games/the-legend-of-zelda-echoes-of-wisdom"
   }
 ]

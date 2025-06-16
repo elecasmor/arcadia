@@ -1,0 +1,64 @@
+import { useEffect, useState } from 'react'
+
+import { Category, Entry, RawEntry } from '@arcadia/dictionary'
+
+import { initRawData, sortEntries } from './transformers'
+
+export default function useDataLoader(year: string) {
+    const [data, setData] = useState<Entry[]>([])
+    const [isLoading, setIsLoading] = useState(false)
+    const [error, setError] = useState<Error | null>(null)
+
+    const [countByCategory, setCountByCategory] = useState<
+        Record<Category, number>
+    >({
+        [Category.MOVIE]: 0,
+        [Category.SERIES]: 0,
+        [Category.GAME]: 0,
+        [Category.BOOK]: 0,
+    })
+
+    useEffect(() => {
+        setIsLoading(true)
+
+        Promise.all([
+            fetch(`/data/${year}/movies.json`).then((res) => {
+                if (!res.ok) throw new Error('Failed to load movies')
+                return res.json() as unknown as RawEntry[]
+            }),
+            fetch(`/data/${year}/series.json`).then((res) => {
+                if (!res.ok) throw new Error('Failed to load series')
+                return res.json() as unknown as RawEntry[]
+            }),
+            fetch(`/data/${year}/games.json`).then((res) => {
+                if (!res.ok) throw new Error('Failed to load games')
+                return res.json() as unknown as RawEntry[]
+            }),
+            fetch(`/data/${year}/books.json`).then((res) => {
+                if (!res.ok) throw new Error('Failed to load books')
+                return res.json() as unknown as RawEntry[]
+            }),
+        ])
+            .then(([_movies, _series, _games, _books]) => {
+                const movies = initRawData(_movies, year, Category.MOVIE)
+                const series = initRawData(_series, year, Category.SERIES)
+                const games = initRawData(_games, year, Category.GAME)
+                const books = initRawData(_books, year, Category.BOOK)
+
+                const all = [...movies, ...series, ...games, ...books]
+                const ordered = sortEntries(all)
+
+                setData(ordered)
+                setCountByCategory({
+                    [Category.MOVIE]: movies.length,
+                    [Category.SERIES]: series.length,
+                    [Category.GAME]: games.length,
+                    [Category.BOOK]: books.length,
+                })
+            })
+            .catch(setError)
+            .finally(() => setIsLoading(false))
+    }, [year])
+
+    return { data, isLoading, error, countByCategory }
+}

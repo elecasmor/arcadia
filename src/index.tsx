@@ -4,8 +4,8 @@ import Main from './app/Main'
 import Providers from './providers'
 
 import './style.css'
-import 'primereact/resources/themes/lara-light-indigo/theme.css' //theme
-import 'primereact/resources/primereact.min.css' //core css
+import 'primereact/resources/themes/lara-dark-pink/theme.css'
+import 'primereact/resources/primereact.min.css'
 
 export function App() {
     return (
