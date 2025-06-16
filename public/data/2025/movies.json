@@ -187,14 +187,16 @@
     "title": "Misión imposible 2",
     "review": 0,
     "date": "17-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt0120755"
+    "moreInfoURL": "https://www.imdb.com/title/tt0120755",
+    "isRewatch": true
   },
   {
     "id": "2025-movies-028",
     "title": "Misión imposible 3",
     "review": 2,
     "date": "25-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt0317919"
+    "moreInfoURL": "https://www.imdb.com/title/tt0317919",
+    "isRewatch": true
   },
   {
     "id": "2025-movies-029",
