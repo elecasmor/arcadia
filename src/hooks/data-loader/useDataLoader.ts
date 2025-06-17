@@ -16,6 +16,8 @@ export default function useDataLoader(year: string) {
         [Category.SERIES]: 0,
         [Category.GAME]: 0,
         [Category.BOOK]: 0,
+        [Category.PODCAST]: 0,
+        [Category.VARIETY]: 0,
     })
 
     useEffect(() => {
@@ -46,14 +48,35 @@ export default function useDataLoader(year: string) {
                     return res.json() as unknown as RawEntry[]
                 }
             ),
+            fetch(`${import.meta.env.BASE_URL}data/${year}/podcasts.json`).then(
+                (res) => {
+                    if (!res.ok) throw new Error('Failed to load podcasts')
+                    return res.json() as unknown as RawEntry[]
+                }
+            ),
+            fetch(`${import.meta.env.BASE_URL}data/${year}/variety.json`).then(
+                (res) => {
+                    if (!res.ok) throw new Error('Failed to load variety')
+                    return res.json() as unknown as RawEntry[]
+                }
+            ),
         ])
-            .then(([_movies, _series, _games, _books]) => {
+            .then(([_movies, _series, _games, _books, _podcasts, _variety]) => {
                 const movies = initRawData(_movies, year, Category.MOVIE)
                 const series = initRawData(_series, year, Category.SERIES)
                 const games = initRawData(_games, year, Category.GAME)
                 const books = initRawData(_books, year, Category.BOOK)
+                const podcasts = initRawData(_podcasts, year, Category.PODCAST)
+                const variety = initRawData(_variety, year, Category.VARIETY)
 
-                const all = [...movies, ...series, ...games, ...books]
+                const all = [
+                    ...movies,
+                    ...series,
+                    ...games,
+                    ...books,
+                    ...podcasts,
+                    ...variety,
+                ]
                 const ordered = sortEntries(all)
 
                 setData(ordered)
@@ -62,6 +85,8 @@ export default function useDataLoader(year: string) {
                     [Category.SERIES]: series.length,
                     [Category.GAME]: games.length,
                     [Category.BOOK]: books.length,
+                    [Category.PODCAST]: podcasts.length,
+                    [Category.VARIETY]: variety.length,
                 })
             })
             .catch(setError)

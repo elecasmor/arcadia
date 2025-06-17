@@ -1,4 +1,4 @@
-import { BookOpenText, Film, Gamepad2, Tv } from 'lucide-react'
+import { BookOpenText, Film, Gamepad2, Radio, Rainbow, Tv } from 'lucide-react'
 
 import { Category, Entry } from '@arcadia/dictionary'
 
@@ -16,6 +16,10 @@ export function CategoryIcon({ category }: Props) {
             return <Gamepad2 {...props} />
         case Category.BOOK:
             return <BookOpenText {...props} />
+        case Category.PODCAST:
+            return <Radio {...props} />
+        case Category.VARIETY:
+            return <Rainbow {...props} />
         default:
             return <span>TBD</span>
     }

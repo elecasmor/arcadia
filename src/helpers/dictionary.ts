@@ -3,6 +3,8 @@ export enum Category {
     SERIES = 'series',
     GAME = 'games',
     BOOK = 'books',
+    PODCAST = 'podcast',
+    VARIETY = 'variety',
 }
 
 export enum ReviewValue {
@@ -18,8 +20,8 @@ export interface RawEntry {
     title: string
     version?: string
     season?: number
-    review: number
-    date: string
+    review?: number
+    date?: string
     moreInfoURL: string
     isRewatch?: boolean
 }
@@ -30,7 +32,7 @@ export interface Entry {
     title: string
     version: string | undefined
     season: string | undefined
-    review: ReviewValue
+    review: ReviewValue | undefined
     date: Date
     posterURL: string
     moreInfoURL: string

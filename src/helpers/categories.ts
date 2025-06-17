@@ -10,6 +10,10 @@ export function getCategoryLabel(category: Category, isPlural = false) {
             return isPlural ? 'Juegos' : 'Juego'
         case Category.BOOK:
             return isPlural ? 'Libros' : 'Libro'
+        case Category.PODCAST:
+            return isPlural ? 'Podcasts' : 'Podcast'
+        case Category.VARIETY:
+            return isPlural ? 'Otros' : 'Otro'
         default:
             return 'TBD'
     }
