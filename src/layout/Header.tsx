@@ -5,7 +5,7 @@ export function Header() {
         <header className="text-center py-12">
             <h1 className="text-2xl font-bold text-shadow-md">Arcadia</h1>
             <div className="flex items-center justify-center gap-xs">
-                <div className="text-shadow-md">{`>.`} Registro de ocio de</div>
+                <div className="text-shadow-md">{`>_`} Registro de ocio de</div>
                 <Button
                     label="@AsukA05"
                     link
