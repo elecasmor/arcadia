@@ -1,12 +1,8 @@
-# `create-preact`
+# Arcadia
 
-<h2 align="center">
-  <img height="256" width="256" src="srcssets/preact.svg">
-</h2>
+A personal and minimal project for keeping track of how I spend my free time.
 
-<h3 align="center">Get started using Preact and Vite!</h3>
-
-## Getting Started
+## Working on local
 
 -   `npm run dev` - Starts a dev server at http://localhost:5173/
 

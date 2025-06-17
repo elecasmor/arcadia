@@ -10,6 +10,7 @@ const __dirname = path.dirname(__filename)
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [preact(), tailwindcss()],
+    base: '/arcadia/',
     resolve: {
         alias: [
             { find: 'react', replacement: 'preact/compat' },
