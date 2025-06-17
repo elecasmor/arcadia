@@ -26,7 +26,7 @@ function initPoster(
 ) {
     const toSlugify = undefined !== version ? `${title} ${version}` : title
 
-    return `/posters/${category}/${slugify(toSlugify)}.jpg`
+    return `${import.meta.env.BASE_URL}posters/${category}/${slugify(toSlugify)}.jpg`
 }
 
 function initReviewValue(review: RawEntry['review']) {
