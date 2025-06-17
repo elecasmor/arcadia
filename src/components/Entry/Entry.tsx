@@ -11,7 +11,7 @@ const textClassNames = 'font-bold text-white text-shadow-sm text-shadow-black'
 export function Entry(props: EntryProps) {
     return (
         <div
-            className="h-[250px] md:h-[300px] relative rounded-lg overflow-hidden flex bg-cover bg-center"
+            className="h-[250px] md:h-[300px] relative rounded-lg overflow-hidden flex bg-cover bg-center shadow-xl shadow-blue-600/5"
             style={{
                 backgroundImage: `url(${props.posterURL})`,
             }}
@@ -26,9 +26,11 @@ export function Entry(props: EntryProps) {
             </div>
             <div className="bg-white/25 w-full h-[150px] mt-auto p-xs md:p-sm">
                 <div className="relative h-full">
-                    <div className="absolute bottom-0 left-0">
-                        <Review review={props.review} />
-                    </div>
+                    {props.review && (
+                        <div className="absolute bottom-0 left-0">
+                            <Review review={props.review} />
+                        </div>
+                    )}
                     <div className="absolute bottom-0 right-0">
                         <MoreInfo moreInfoURL={props.moreInfoURL} />
                     </div>

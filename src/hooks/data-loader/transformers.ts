@@ -29,7 +29,9 @@ function initPoster(
     return `${import.meta.env.BASE_URL}posters/${category}/${slugify(toSlugify)}.jpg`
 }
 
-function initReviewValue(review: RawEntry['review']) {
+function initReviewValue(review: RawEntry['review'] | undefined) {
+    if (undefined === review) return undefined
+
     if (5 === review) {
         return ReviewValue.BIEN_PLUS
     }
@@ -54,18 +56,20 @@ export function initRawData(
     year: string,
     category: Category
 ): Entry[] {
-    return raw.map((entry) => ({
-        id: entry.id,
-        category,
-        title: entry.title,
-        version: entry.version,
-        season: entry.season ? `T${entry.season}` : undefined,
-        review: initReviewValue(entry.review),
-        date: initDate(entry.date, year),
-        posterURL: initPoster(entry.title, entry.version, category),
-        moreInfoURL: entry.moreInfoURL,
-        isRewatch: entry.isRewatch ?? false,
-    }))
+    return raw
+        .filter((entry) => undefined !== entry.date)
+        .map((entry) => ({
+            id: entry.id,
+            category,
+            title: entry.title,
+            version: entry.version,
+            season: entry.season ? `T${entry.season}` : undefined,
+            review: initReviewValue(entry.review),
+            date: initDate(entry.date, year),
+            posterURL: initPoster(entry.title, entry.version, category),
+            moreInfoURL: entry.moreInfoURL,
+            isRewatch: entry.isRewatch ?? false,
+        }))
 }
 
 export function sortEntries(entries: Entry[]) {
