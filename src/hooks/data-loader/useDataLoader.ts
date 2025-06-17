@@ -22,22 +22,30 @@ export default function useDataLoader(year: string) {
         setIsLoading(true)
 
         Promise.all([
-            fetch(`/data/${year}/movies.json`).then((res) => {
-                if (!res.ok) throw new Error('Failed to load movies')
-                return res.json() as unknown as RawEntry[]
-            }),
-            fetch(`/data/${year}/series.json`).then((res) => {
-                if (!res.ok) throw new Error('Failed to load series')
-                return res.json() as unknown as RawEntry[]
-            }),
-            fetch(`/data/${year}/games.json`).then((res) => {
-                if (!res.ok) throw new Error('Failed to load games')
-                return res.json() as unknown as RawEntry[]
-            }),
-            fetch(`/data/${year}/books.json`).then((res) => {
-                if (!res.ok) throw new Error('Failed to load books')
-                return res.json() as unknown as RawEntry[]
-            }),
+            fetch(`${import.meta.env.BASE_URL}data/${year}/movies.json`).then(
+                (res) => {
+                    if (!res.ok) throw new Error('Failed to load movies')
+                    return res.json() as unknown as RawEntry[]
+                }
+            ),
+            fetch(`${import.meta.env.BASE_URL}data/${year}/series.json`).then(
+                (res) => {
+                    if (!res.ok) throw new Error('Failed to load series')
+                    return res.json() as unknown as RawEntry[]
+                }
+            ),
+            fetch(`${import.meta.env.BASE_URL}data/${year}/games.json`).then(
+                (res) => {
+                    if (!res.ok) throw new Error('Failed to load games')
+                    return res.json() as unknown as RawEntry[]
+                }
+            ),
+            fetch(`${import.meta.env.BASE_URL}data/${year}/books.json`).then(
+                (res) => {
+                    if (!res.ok) throw new Error('Failed to load books')
+                    return res.json() as unknown as RawEntry[]
+                }
+            ),
         ])
             .then(([_movies, _series, _games, _books]) => {
                 const movies = initRawData(_movies, year, Category.MOVIE)
