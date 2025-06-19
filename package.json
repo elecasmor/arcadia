@@ -6,11 +6,12 @@
 		"dev": "vite",
 		"build": "vite build",
 		"preview": "vite preview",
-		"predeploy" : "npm run build",
-		"deploy" : "gh-pages -d dist"
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d dist"
 	},
 	"dependencies": {
 		"@tailwindcss/vite": "^4.1.8",
+		"chart.js": "^4.5.0",
 		"date-fns": "^4.1.0",
 		"lucide-react": "^0.513.0",
 		"preact": "^10.25.3",
