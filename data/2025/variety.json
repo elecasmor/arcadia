@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2025-variety-001",
+    "title": "Make Some Noise",
+    "season": 1,
+    "date": "06-05",
+    "moreInfoURL": "https://www.dropout.tv/make-some-noise"
+  },
+  {
+    "id": "2025-variety-002",
+    "title": "Very Important People",
+    "season": 1,
+    "date": "18-05",
+    "moreInfoURL": "https://www.dropout.tv/very-important-people"
+  },
+  {
+    "id": "2025-variety-003",
+    "title": "Very Important People",
+    "season": 2,
+    "date": "06-06",
+    "moreInfoURL": "https://www.dropout.tv/very-important-people"
+  },
+  {
+    "id": "2025-variety-004",
+    "title": "Game Changer",
+    "season": 1,
+    "date": "16-06",
+    "moreInfoURL": "https://www.dropout.tv/game-changer"
+  }
+]
