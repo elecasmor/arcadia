@@ -248,5 +248,19 @@
     "review": 2.5,
     "date": "15-06",
     "moreInfoURL": "https://www.imdb.com/title/tt26743210"
+  },
+  {
+    "id": "2025-movies-036",
+    "title": "Legend",
+    "review": 2,
+    "date": "21-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt0089469"
+  },
+  {
+    "id": "2025-movies-037",
+    "title": "Misión imposible: Sentencia mortal - Parte 1",
+    "review": 2.5,
+    "date": "22-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt9603212"
   }
 ]
