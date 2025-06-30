@@ -262,5 +262,13 @@
     "review": 2.5,
     "date": "22-06",
     "moreInfoURL": "https://www.imdb.com/title/tt9603212"
+  },
+  {
+    "id": "2025-movies-038",
+    "title": "Until Dawn",
+    "version": "live-action",
+    "review": 1,
+    "date": "28-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt30955489"
   }
 ]

@@ -67,5 +67,13 @@
     "review": 2,
     "date": "04-06",
     "moreInfoURL": "https://www.imdb.com/title/tt28229356"
+  },
+  {
+    "id": "2025-series-010",
+    "title": "The Bear",
+    "season": 4,
+    "review": 5,
+    "date": "28-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt14452776"
   }
 ]

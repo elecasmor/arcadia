@@ -34,5 +34,12 @@
     "review": 4,
     "date": "22-06",
     "moreInfoURL": "https://www.igdb.com/games/the-legend-of-zelda-link-s-awakening-dx"
+  },
+  {
+    "id": "2025-games-006",
+    "title": "The Legend of Zelda",
+    "review": 2.5,
+    "date": "29-06",
+    "moreInfoURL": "https://www.igdb.com/games/the-legend-of-zelda"
   }
 ]
