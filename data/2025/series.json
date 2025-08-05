@@ -39,6 +39,14 @@
   },
   {
     "id": "2025-series-006",
+    "title": "The White Lotus",
+    "season": 3,
+    "review": 5,
+    "date": "07-04",
+    "moreInfoURL": "https://www.imdb.com/title/tt13406094"
+  },
+  {
+    "id": "2025-series-007",
     "title": "Yellowjackets",
     "season": 2,
     "review": 3,
@@ -46,7 +54,7 @@
     "moreInfoURL": "https://www.imdb.com/title/tt11041332"
   },
   {
-    "id": "2025-series-007",
+    "id": "2025-series-008",
     "title": "Yellowjackets",
     "season": 3,
     "review": 3,
@@ -54,7 +62,7 @@
     "moreInfoURL": "https://www.imdb.com/title/tt11041332"
   },
   {
-    "id": "2025-series-008",
+    "id": "2025-series-009",
     "title": "The Last of Us",
     "season": 2,
     "review": 3,
@@ -62,18 +70,33 @@
     "moreInfoURL": "https://www.imdb.com/title/tt3581920"
   },
   {
-    "id": "2025-series-009",
+    "id": "2025-series-010",
     "title": "Cuando nadie nos ve",
     "review": 2,
     "date": "04-06",
     "moreInfoURL": "https://www.imdb.com/title/tt28229356"
   },
   {
-    "id": "2025-series-010",
+    "id": "2025-series-011",
     "title": "The Bear",
     "season": 4,
     "review": 5,
     "date": "28-06",
     "moreInfoURL": "https://www.imdb.com/title/tt14452776"
+  },
+  {
+    "id": "2025-series-012",
+    "title": "El juego del calamar",
+    "season": 3,
+    "review": 2,
+    "date": "30-06",
+    "moreInfoURL": "https://www.imdb.com/title/tt10919420"
+  },
+  {
+    "id": "2025-series-013",
+    "title": "Ironheart",
+    "review": 2.5,
+    "date": "11-07",
+    "moreInfoURL": "https://www.imdb.com/title/tt13623126"
   }
 ]
