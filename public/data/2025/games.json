@@ -41,5 +41,12 @@
     "review": 2.5,
     "date": "29-06",
     "moreInfoURL": "https://www.igdb.com/games/the-legend-of-zelda"
+  },
+  {
+    "id": "2025-games-007",
+    "title": "Sons of the Forest",
+    "review": 2,
+    "date": "18-07",
+    "moreInfoURL": "https://www.igdb.com/games/sons-of-the-forest"
   }
 ]
