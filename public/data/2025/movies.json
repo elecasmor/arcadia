@@ -270,5 +270,48 @@
     "review": 1,
     "date": "28-06",
     "moreInfoURL": "https://www.imdb.com/title/tt30955489"
+  },
+  {
+    "id": "2025-movies-039",
+    "title": "El prodigio",
+    "review": 3,
+    "date": "05-07",
+    "moreInfoURL": "https://www.imdb.com/title/tt9288822"
+  },
+  {
+    "id": "2025-movies-040",
+    "title": "Las guerreras k-pop",
+    "review": 4,
+    "date": "13-07",
+    "moreInfoURL": "https://www.imdb.com/title/tt14205554"
+  },
+  {
+    "id": "2025-movies-041",
+    "title": "Elio",
+    "review": 2.5,
+    "date": "17-07",
+    "moreInfoURL": "https://www.imdb.com/title/tt4900148"
+  },
+  {
+    "id": "2025-movies-042",
+    "title": "Superman",
+    "version": "2025",
+    "review": 2.5,
+    "date": "20-07",
+    "moreInfoURL": "https://www.imdb.com/title/tt5950044"
+  },
+  {
+    "id": "2025-movies-043",
+    "title": "X",
+    "review": 3,
+    "date": "31-07",
+    "moreInfoURL": "https://www.imdb.com/title/tt13560574"
+  },
+  {
+    "id": "2025-movies-044",
+    "title": "Los Cuatro Fantásticos: primeros pasos",
+    "review": 2.5,
+    "date": "04-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt10676052"
   }
 ]

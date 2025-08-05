@@ -26,5 +26,54 @@
     "season": 1,
     "date": "16-06",
     "moreInfoURL": "https://www.dropout.tv/game-changer"
+  },
+  {
+    "id": "2025-variety-005",
+    "title": "Game Changer",
+    "season": 2,
+    "date": "23-06",
+    "moreInfoURL": "https://www.dropout.tv/game-changer"
+  },
+  {
+    "id": "2025-variety-006",
+    "title": "Game Changer",
+    "season": 3,
+    "date": "01-07",
+    "moreInfoURL": "https://www.dropout.tv/game-changer"
+  },
+  {
+    "id": "2025-variety-007",
+    "title": "Game Changer",
+    "season": 4,
+    "date": "07-07",
+    "moreInfoURL": "https://www.dropout.tv/game-changer"
+  },
+  {
+    "id": "2025-variety-008",
+    "title": "Game Changer",
+    "season": 5,
+    "date": "14-07",
+    "moreInfoURL": "https://www.dropout.tv/game-changer"
+  },
+  {
+    "id": "2025-variety-009",
+    "title": "Make Some Noise",
+    "season": 2,
+    "date": "14-07",
+    "moreInfoURL": "https://www.dropout.tv/make-some-noise"
+  },
+  {
+    "id": "2025-variety-010",
+    "title": "Game Changer",
+    "season": 6,
+    "date": "18-07",
+    "moreInfoURL": "https://www.dropout.tv/game-changer"
+  },
+  {
+    "id": "2025-variety-011",
+    "title": "Make Some Noise",
+    "season": 3,
+    "date": "04-08",
+    "moreInfoURL": "https://www.dropout.tv/make-some-noise"
   }
 ]
