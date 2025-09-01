@@ -48,5 +48,26 @@
     "review": 2,
     "date": "18-07",
     "moreInfoURL": "https://www.igdb.com/games/sons-of-the-forest"
+  },
+  {
+    "id": "2025-games-008",
+    "title": "The King is Watching",
+    "review": 4,
+    "date": "05-08",
+    "moreInfoURL": "https://www.igdb.com/games/the-king-is-watching"
+  },
+  {
+    "id": "2025-games-009",
+    "title": "The Legend of Zelda: A Link to the Past",
+    "review": 4,
+    "date": "21-08",
+    "moreInfoURL": "https://www.igdb.com/games/the-legend-of-zelda-a-link-to-the-past"
+  },
+  {
+    "id": "2025-games-010",
+    "title": "Clair Obscur: Expedition 33",
+    "review": 5,
+    "date": "30-09",
+    "moreInfoURL": "https://www.igdb.com/games/clair-obscur-expedition-33"
   }
 ]
