@@ -313,5 +313,64 @@
     "review": 2.5,
     "date": "04-08",
     "moreInfoURL": "https://www.imdb.com/title/tt10676052"
+  },
+  {
+    "id": "2025-movies-045",
+    "title": "28 días después",
+    "review": 2,
+    "date": "05-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt0289043",
+    "isRewatch": true
+  },
+  {
+    "id": "2025-movies-046",
+    "title": "28 semanas después",
+    "review": 2,
+    "date": "08-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt0463854",
+    "isRewatch": true
+  },
+  {
+    "id": "2025-movies-047",
+    "title": "Devuélvemela",
+    "review": 4,
+    "date": "09-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt32246771"
+  },
+  {
+    "id": "2025-movies-048",
+    "title": "28 años después",
+    "review": 2.5,
+    "date": "10-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt10548174"
+  },
+  {
+    "id": "2025-movies-049",
+    "title": "Weapons",
+    "review": 4,
+    "date": "16-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt26581740"
+  },
+  {
+    "id": "2025-movies-050",
+    "title": "Agárralo como puedas",
+    "review": 2.5,
+    "date": "17-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt0095705"
+  },
+  {
+    "id": "2025-movies-051",
+    "title": "Agárralo como puedas",
+    "version": "2025",
+    "review": 2.5,
+    "date": "23-08",
+    "moreInfoURL": "https://www.imdb.com/title/tt3402138"
+  },
+  {
+    "id": "2025-movies-052",
+    "title": "Septiembre dice",
+    "review": 3,
+    "date": "30-09",
+    "moreInfoURL": "https://www.imdb.com/title/tt29315015"
   }
 ]

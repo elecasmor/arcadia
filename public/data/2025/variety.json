@@ -75,5 +75,12 @@
     "season": 3,
     "date": "04-08",
     "moreInfoURL": "https://www.dropout.tv/make-some-noise"
+  },
+  {
+    "id": "2025-variety-012",
+    "title": "Game Changer",
+    "season": 7,
+    "date": "12-08",
+    "moreInfoURL": "https://www.dropout.tv/game-changer"
   }
 ]
