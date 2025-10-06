@@ -8,20 +8,22 @@
   },
   {
     "id": "2025-podcasts-002",
+    "title": "Deforme Semanal Ideal Total",
+    "season": 8,
+    "date": "06-07",
+    "moreInfoURL": "https://open.spotify.com/show/0TCJ4VZKU6YFJjxpl0oHNN"
+  },
+  {
+    "id": "2025-podcasts-003",
     "title": "Nadie Sabe Nada",
     "season": 12,
     "date": "14-07",
     "moreInfoURL": "https://open.spotify.com/show/1jXeGsr1X2gpss332C8cAw"
   },
   {
-    "id": "2025-podcasts-001",
-    "title": "Deforme Semanal Ideal Total",
-    "season": 8,
-    "moreInfoURL": "https://open.spotify.com/show/0TCJ4VZKU6YFJjxpl0oHNN"
-  },
-  {
-    "id": "2025-podcasts-001",
+    "id": "2025-podcasts-004",
     "title": "Hoy en EL PAÍS",
+    "date": "31-07",
     "moreInfoURL": "https://open.spotify.com/show/4n2SYRzAXUKDFccZ993ZEh"
   }
 ]

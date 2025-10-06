@@ -370,7 +370,62 @@
     "id": "2025-movies-052",
     "title": "Septiembre dice",
     "review": 3,
-    "date": "30-09",
+    "date": "30-08",
     "moreInfoURL": "https://www.imdb.com/title/tt29315015"
+  },
+  {
+    "id": "2025-movies-053",
+    "title": "Expediente Warren: El último rito",
+    "review": 2.5,
+    "date": "08-09",
+    "moreInfoURL": "https://www.imdb.com/title/tt22898462"
+  },
+  {
+    "id": "2025-movies-054",
+    "title": "John Wick",
+    "review": 2.5,
+    "date": "12-09",
+    "moreInfoURL": "https://www.imdb.com/title/tt2911666"
+  },
+  {
+    "id": "2025-movies-055",
+    "title": "Eddington",
+    "review": 3.5,
+    "date": "13-09",
+    "moreInfoURL": "https://www.imdb.com/title/tt31176520"
+  },
+  {
+    "id": "2025-movies-056",
+    "title": "John Wick: Pacto de sangre",
+    "review": 2.5,
+    "date": "18-09",
+    "moreInfoURL": "https://www.imdb.com/title/tt4425200"
+  },
+  {
+    "id": "2025-movies-057",
+    "title": "Un gran viaje atrevido y maravilloso",
+    "review": 3,
+    "date": "20-09",
+    "moreInfoURL": "https://www.imdb.com/title/tt13650700"
+  },
+  {
+    "id": "2025-movies-058",
+    "title": "John Wick: Capítulo 3 - Parabellum",
+    "review": 2.5,
+    "date": "26-09",
+    "moreInfoURL": "https://www.imdb.com/title/tt6146586"
+  },
+  {
+    "id": "2025-movies-059",
+    "title": "Misión imposible: Sentencia final",
+    "review": 3,
+    "date": "05-10",
+    "moreInfoURL": "https://www.imdb.com/title/tt9603208"
+  },
+  {
+    "id": "2025-movies-060",
+    "title": "Una batalla tras otra",
+    "review": 0,
+    "moreInfoURL": "https://www.imdb.com/title/tt30144839"
   }
 ]

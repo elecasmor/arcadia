@@ -67,7 +67,14 @@
     "id": "2025-games-010",
     "title": "Clair Obscur: Expedition 33",
     "review": 5,
-    "date": "30-09",
+    "date": "30-08",
     "moreInfoURL": "https://www.igdb.com/games/clair-obscur-expedition-33"
+  },
+  {
+    "id": "2025-games-011",
+    "title": "Zelda II: The Adventure of Link",
+    "review": 2.5,
+    "date": "07-09",
+    "moreInfoURL": "https://www.igdb.com/games/zelda-ii-the-adventure-of-link"
   }
 ]
