@@ -1,11 +1,12 @@
 @import "tailwindcss";
 
 @theme static {
+    --color-anime: oklch(0.932 0.117 108.479);
 	--color-movies: oklch(0.4193 0.0862 240.43);
 	--color-series: oklch(0.3176 0.1059 327.72);
 	--color-games: oklch(0.5259 0.1989 358.99);
 	--color-books: oklch(0.6536 0.2165 37.02);
-	--color-podcast: oklch(0.4783 0.162768 142.4953);
+	--color-podcasts: oklch(0.4783 0.162768 142.4953);
 	--color-variety: oklch(0.4699 0.0327 298.86);
 	--color-primary: var(--primary-color);
 	--color-primary-contrast: var(--primary-color-text);
@@ -63,6 +64,9 @@ body,
 	background-repeat: repeat;
 }
 
+.anime-gradient {
+    background: linear-gradient(90deg, var(--color-anime) 35%, var(--primary-color) 100%);
+}
 
 .movies-gradient {
 	background: linear-gradient(90deg, var(--color-movies) 35%, var(--primary-color) 100%);
@@ -80,8 +84,8 @@ body,
 	background: linear-gradient(90deg, var(--color-books) 35%, var(--primary-color) 100%);
 }
 
-.podcast-gradient {
-	background: linear-gradient(90deg, var(--color-podcast) 35%, var(--primary-color) 100%);
+.podcasts-gradient {
+	background: linear-gradient(90deg, var(--color-podcasts) 35%, var(--primary-color) 100%);
 }
 
 .variety-gradient {

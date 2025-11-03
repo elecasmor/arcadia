@@ -34,22 +34,24 @@ export function initColors() {
     const color = documentStyle.getPropertyValue('--text-color')
     const gridColor = documentStyle.getPropertyValue('--surface-border')
 
+    const anime = documentStyle.getPropertyValue('--color-anime')
     const movies = documentStyle.getPropertyValue('--color-movies')
     const series = documentStyle.getPropertyValue('--color-series')
     const games = documentStyle.getPropertyValue('--color-games')
     const books = documentStyle.getPropertyValue('--color-books')
-    const podcast = documentStyle.getPropertyValue('--color-podcast')
+    const podcasts = documentStyle.getPropertyValue('--color-podcasts')
     const variety = documentStyle.getPropertyValue('--color-variety')
 
     return {
         color,
         gridColor,
         categories: {
+            anime,
             movies,
             series,
             games,
             books,
-            podcast,
+            podcasts,
             variety,
         },
     }

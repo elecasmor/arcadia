@@ -1,9 +1,10 @@
 export enum Category {
-    MOVIE = 'movies',
+    ANIME = 'anime',
+    MOVIES = 'movies',
     SERIES = 'series',
-    GAME = 'games',
-    BOOK = 'books',
-    PODCAST = 'podcast',
+    GAMES = 'games',
+    BOOKS = 'books',
+    PODCASTS = 'podcasts',
     VARIETY = 'variety',
 }
 
