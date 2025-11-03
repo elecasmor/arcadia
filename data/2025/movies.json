@@ -1,431 +1,475 @@
 [
-  {
-    "id": "2025-movies-001",
-    "title": "Heretic",
-    "review": 2.5,
-    "date": "12-01",
-    "moreInfoURL": "https://www.imdb.com/title/tt28015403"
-  },
-  {
-    "id": "2025-movies-002",
-    "title": "Cuando acecha la maldad",
-    "review": 3,
-    "date": "17-01",
-    "moreInfoURL": "https://www.imdb.com/title/tt16300962"
-  },
-  {
-    "id": "2025-movies-003",
-    "title": "Canina",
-    "review": 3,
-    "date": "25-01",
-    "moreInfoURL": "https://www.imdb.com/title/tt12810074"
-  },
-  {
-    "id": "2025-movies-004",
-    "title": "La acompañante",
-    "review": 3,
-    "date": "01-02",
-    "moreInfoURL": "https://www.imdb.com/title/tt26584495"
-  },
-  {
-    "id": "2025-movies-005",
-    "title": "Emilia Pérez",
-    "review": 2.5,
-    "date": "04-02",
-    "moreInfoURL": "https://www.imdb.com/title/tt20221436"
-  },
-  {
-    "id": "2025-movies-006",
-    "title": "Flow",
-    "review": 5,
-    "date": "14-02",
-    "moreInfoURL": "https://www.imdb.com/title/tt4772188"
-  },
-  {
-    "id": "2025-movies-007",
-    "title": "Capitán América: Brave New World",
-    "review": 0,
-    "date": "15-02",
-    "moreInfoURL": "https://www.imdb.com/title/tt14513804"
-  },
-  {
-    "id": "2025-movies-008",
-    "title": "Nunca te sueltes",
-    "review": 2,
-    "date": "22-02",
-    "moreInfoURL": "https://www.imdb.com/title/tt14415204"
-  },
-  {
-    "id": "2025-movies-009",
-    "title": "Cónclave",
-    "review": 4,
-    "date": "25-02",
-    "moreInfoURL": "https://www.imdb.com/title/tt20215234"
-  },
-  {
-    "id": "2025-movies-010",
-    "title": "The Brutalist",
-    "review": 3,
-    "date": "01-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt8999762"
-  },
-  {
-    "id": "2025-movies-011",
-    "title": "The Monkey",
-    "review": 2.5,
-    "date": "02-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt27714946"
-  },
-  {
-    "id": "2025-movies-012",
-    "title": "Mickey 17",
-    "review": 2.5,
-    "date": "22-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt12299608"
-  },
-  {
-    "id": "2025-movies-013",
-    "title": "Anora",
-    "review": 2.5,
-    "date": "23-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt28607951"
-  },
-  {
-    "id": "2025-movies-014",
-    "title": "El 47",
-    "review": 4,
-    "date": "28-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt27751957"
-  },
-  {
-    "id": "2025-movies-015",
-    "title": "Terrifier 3",
-    "review": 1,
-    "date": "29-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt27911000"
-  },
-  {
-    "id": "2025-movies-016",
-    "title": "They/Them",
-    "review": 1,
-    "date": "29-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt14502344"
-  },
-  {
-    "id": "2025-movies-017",
-    "title": "Diabólica",
-    "review": 0,
-    "date": "05-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt24577462"
-  },
-  {
-    "id": "2025-movies-018",
-    "title": "La infiltrada",
-    "review": 2.5,
-    "date": "19-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt29270150"
-  },
-  {
-    "id": "2025-movies-019",
-    "title": "Priscilla",
-    "review": 2.5,
-    "date": "19-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt22041854"
-  },
-  {
-    "id": "2025-movies-020",
-    "title": "Los pecadores",
-    "review": 5,
-    "date": "21-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt31193180"
-  },
-  {
-    "id": "2025-movies-021",
-    "title": "The End",
-    "review": 4,
-    "date": "26-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt15551346"
-  },
-  {
-    "id": "2025-movies-022",
-    "title": "Dream Scenario",
-    "review": 2,
-    "date": "26-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt21942866"
-  },
-  {
-    "id": "2025-movies-023",
-    "title": "La buena letra",
-    "review": 4,
-    "date": "04-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt32561334"
-  },
-  {
-    "id": "2025-movies-024",
-    "title": "Thunderbolts*",
-    "review": 2.5,
-    "date": "05-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt20969586"
-  },
-  {
-    "id": "2025-movies-025",
-    "title": "Lo que la verdad esconde",
-    "review": 3,
-    "date": "11-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt0161081"
-  },
-  {
-    "id": "2025-movies-026",
-    "title": "Misión imposible",
-    "review": 3,
-    "date": "17-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt0117060",
-    "isRewatch": true
-  },
-  {
-    "id": "2025-movies-027",
-    "title": "Misión imposible 2",
-    "review": 0,
-    "date": "17-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt0120755",
-    "isRewatch": true
-  },
-  {
-    "id": "2025-movies-028",
-    "title": "Misión imposible 3",
-    "review": 2,
-    "date": "25-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt0317919",
-    "isRewatch": true
-  },
-  {
-    "id": "2025-movies-029",
-    "title": "Misión imposible: Protocolo fantasma",
-    "review": 2.5,
-    "date": "25-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt1229238"
-  },
-  {
-    "id": "2025-movies-030",
-    "title": "Lilo & Stitch",
-    "version": "live-action",
-    "review": 2.5,
-    "date": "27-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt11655566"
-  },
-  {
-    "id": "2025-movies-031",
-    "title": "Misión imposible: Nación secreta",
-    "review": 2.5,
-    "date": "31-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt2381249"
-  },
-  {
-    "id": "2025-movies-032",
-    "title": "De naturaleza violenta",
-    "review": 2.5,
-    "date": "07-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt30321146"
-  },
-  {
-    "id": "2025-movies-033",
-    "title": "El exorcismo de Eastfield",
-    "review": 3.5,
-    "date": "14-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt16296308"
-  },
-  {
-    "id": "2025-movies-034",
-    "title": "Misión imposible: Fallout",
-    "review": 2.5,
-    "date": "15-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt4912910"
-  },
-  {
-    "id": "2025-movies-035",
-    "title": "Cómo entrenar a tu dragón",
-    "version": "live-action",
-    "review": 2.5,
-    "date": "15-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt26743210"
-  },
-  {
-    "id": "2025-movies-036",
-    "title": "Legend",
-    "review": 2,
-    "date": "21-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt0089469"
-  },
-  {
-    "id": "2025-movies-037",
-    "title": "Misión imposible: Sentencia mortal - Parte 1",
-    "review": 2.5,
-    "date": "22-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt9603212"
-  },
-  {
-    "id": "2025-movies-038",
-    "title": "Until Dawn",
-    "version": "live-action",
-    "review": 1,
-    "date": "28-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt30955489"
-  },
-  {
-    "id": "2025-movies-039",
-    "title": "El prodigio",
-    "review": 3,
-    "date": "05-07",
-    "moreInfoURL": "https://www.imdb.com/title/tt9288822"
-  },
-  {
-    "id": "2025-movies-040",
-    "title": "Las guerreras k-pop",
-    "review": 4,
-    "date": "13-07",
-    "moreInfoURL": "https://www.imdb.com/title/tt14205554"
-  },
-  {
-    "id": "2025-movies-041",
-    "title": "Elio",
-    "review": 2.5,
-    "date": "17-07",
-    "moreInfoURL": "https://www.imdb.com/title/tt4900148"
-  },
-  {
-    "id": "2025-movies-042",
-    "title": "Superman",
-    "version": "2025",
-    "review": 2.5,
-    "date": "20-07",
-    "moreInfoURL": "https://www.imdb.com/title/tt5950044"
-  },
-  {
-    "id": "2025-movies-043",
-    "title": "X",
-    "review": 3,
-    "date": "31-07",
-    "moreInfoURL": "https://www.imdb.com/title/tt13560574"
-  },
-  {
-    "id": "2025-movies-044",
-    "title": "Los Cuatro Fantásticos: primeros pasos",
-    "review": 2.5,
-    "date": "04-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt10676052"
-  },
-  {
-    "id": "2025-movies-045",
-    "title": "28 días después",
-    "review": 2,
-    "date": "05-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt0289043",
-    "isRewatch": true
-  },
-  {
-    "id": "2025-movies-046",
-    "title": "28 semanas después",
-    "review": 2,
-    "date": "08-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt0463854",
-    "isRewatch": true
-  },
-  {
-    "id": "2025-movies-047",
-    "title": "Devuélvemela",
-    "review": 4,
-    "date": "09-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt32246771"
-  },
-  {
-    "id": "2025-movies-048",
-    "title": "28 años después",
-    "review": 2.5,
-    "date": "10-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt10548174"
-  },
-  {
-    "id": "2025-movies-049",
-    "title": "Weapons",
-    "review": 4,
-    "date": "16-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt26581740"
-  },
-  {
-    "id": "2025-movies-050",
-    "title": "Agárralo como puedas",
-    "review": 2.5,
-    "date": "17-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt0095705"
-  },
-  {
-    "id": "2025-movies-051",
-    "title": "Agárralo como puedas",
-    "version": "2025",
-    "review": 2.5,
-    "date": "23-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt3402138"
-  },
-  {
-    "id": "2025-movies-052",
-    "title": "Septiembre dice",
-    "review": 3,
-    "date": "30-08",
-    "moreInfoURL": "https://www.imdb.com/title/tt29315015"
-  },
-  {
-    "id": "2025-movies-053",
-    "title": "Expediente Warren: El último rito",
-    "review": 2.5,
-    "date": "08-09",
-    "moreInfoURL": "https://www.imdb.com/title/tt22898462"
-  },
-  {
-    "id": "2025-movies-054",
-    "title": "John Wick",
-    "review": 2.5,
-    "date": "12-09",
-    "moreInfoURL": "https://www.imdb.com/title/tt2911666"
-  },
-  {
-    "id": "2025-movies-055",
-    "title": "Eddington",
-    "review": 3.5,
-    "date": "13-09",
-    "moreInfoURL": "https://www.imdb.com/title/tt31176520"
-  },
-  {
-    "id": "2025-movies-056",
-    "title": "John Wick: Pacto de sangre",
-    "review": 2.5,
-    "date": "18-09",
-    "moreInfoURL": "https://www.imdb.com/title/tt4425200"
-  },
-  {
-    "id": "2025-movies-057",
-    "title": "Un gran viaje atrevido y maravilloso",
-    "review": 3,
-    "date": "20-09",
-    "moreInfoURL": "https://www.imdb.com/title/tt13650700"
-  },
-  {
-    "id": "2025-movies-058",
-    "title": "John Wick: Capítulo 3 - Parabellum",
-    "review": 2.5,
-    "date": "26-09",
-    "moreInfoURL": "https://www.imdb.com/title/tt6146586"
-  },
-  {
-    "id": "2025-movies-059",
-    "title": "Misión imposible: Sentencia final",
-    "review": 3,
-    "date": "05-10",
-    "moreInfoURL": "https://www.imdb.com/title/tt9603208"
-  },
-  {
-    "id": "2025-movies-060",
-    "title": "Una batalla tras otra",
-    "review": 0,
-    "moreInfoURL": "https://www.imdb.com/title/tt30144839"
-  }
+    {
+        "id": "2025-movies-001",
+        "title": "Heretic",
+        "review": 2.5,
+        "date": "12-01",
+        "moreInfoURL": "https://www.imdb.com/title/tt28015403"
+    },
+    {
+        "id": "2025-movies-002",
+        "title": "Cuando acecha la maldad",
+        "review": 3,
+        "date": "17-01",
+        "moreInfoURL": "https://www.imdb.com/title/tt16300962"
+    },
+    {
+        "id": "2025-movies-003",
+        "title": "Canina",
+        "review": 3,
+        "date": "25-01",
+        "moreInfoURL": "https://www.imdb.com/title/tt12810074"
+    },
+    {
+        "id": "2025-movies-004",
+        "title": "La acompañante",
+        "review": 3,
+        "date": "01-02",
+        "moreInfoURL": "https://www.imdb.com/title/tt26584495"
+    },
+    {
+        "id": "2025-movies-005",
+        "title": "Emilia Pérez",
+        "review": 2.5,
+        "date": "04-02",
+        "moreInfoURL": "https://www.imdb.com/title/tt20221436"
+    },
+    {
+        "id": "2025-movies-006",
+        "title": "Flow",
+        "review": 5,
+        "date": "14-02",
+        "moreInfoURL": "https://www.imdb.com/title/tt4772188"
+    },
+    {
+        "id": "2025-movies-007",
+        "title": "Capitán América: Brave New World",
+        "review": 0,
+        "date": "15-02",
+        "moreInfoURL": "https://www.imdb.com/title/tt14513804"
+    },
+    {
+        "id": "2025-movies-008",
+        "title": "Nunca te sueltes",
+        "review": 2,
+        "date": "22-02",
+        "moreInfoURL": "https://www.imdb.com/title/tt14415204"
+    },
+    {
+        "id": "2025-movies-009",
+        "title": "Cónclave",
+        "review": 4,
+        "date": "25-02",
+        "moreInfoURL": "https://www.imdb.com/title/tt20215234"
+    },
+    {
+        "id": "2025-movies-010",
+        "title": "The Brutalist",
+        "review": 3,
+        "date": "01-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt8999762"
+    },
+    {
+        "id": "2025-movies-011",
+        "title": "The Monkey",
+        "review": 2.5,
+        "date": "02-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt27714946"
+    },
+    {
+        "id": "2025-movies-012",
+        "title": "Mickey 17",
+        "review": 2.5,
+        "date": "22-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt12299608"
+    },
+    {
+        "id": "2025-movies-013",
+        "title": "Anora",
+        "review": 2.5,
+        "date": "23-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt28607951"
+    },
+    {
+        "id": "2025-movies-014",
+        "title": "El 47",
+        "review": 4,
+        "date": "28-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt27751957"
+    },
+    {
+        "id": "2025-movies-015",
+        "title": "Terrifier 3",
+        "review": 1,
+        "date": "29-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt27911000"
+    },
+    {
+        "id": "2025-movies-016",
+        "title": "They/Them",
+        "review": 1,
+        "date": "29-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt14502344"
+    },
+    {
+        "id": "2025-movies-017",
+        "title": "Diabólica",
+        "review": 0,
+        "date": "05-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt24577462"
+    },
+    {
+        "id": "2025-movies-018",
+        "title": "La infiltrada",
+        "review": 2.5,
+        "date": "19-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt29270150"
+    },
+    {
+        "id": "2025-movies-019",
+        "title": "Priscilla",
+        "review": 2.5,
+        "date": "19-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt22041854"
+    },
+    {
+        "id": "2025-movies-020",
+        "title": "Los pecadores",
+        "review": 5,
+        "date": "21-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt31193180"
+    },
+    {
+        "id": "2025-movies-021",
+        "title": "The End",
+        "review": 4,
+        "date": "26-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt15551346"
+    },
+    {
+        "id": "2025-movies-022",
+        "title": "Dream Scenario",
+        "review": 2,
+        "date": "26-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt21942866"
+    },
+    {
+        "id": "2025-movies-023",
+        "title": "La buena letra",
+        "review": 4,
+        "date": "04-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt32561334"
+    },
+    {
+        "id": "2025-movies-024",
+        "title": "Thunderbolts*",
+        "review": 2.5,
+        "date": "05-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt20969586"
+    },
+    {
+        "id": "2025-movies-025",
+        "title": "Lo que la verdad esconde",
+        "review": 3,
+        "date": "11-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt0161081"
+    },
+    {
+        "id": "2025-movies-026",
+        "title": "Misión imposible",
+        "review": 3,
+        "date": "17-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt0117060",
+        "isRewatch": true
+    },
+    {
+        "id": "2025-movies-027",
+        "title": "Misión imposible 2",
+        "review": 0,
+        "date": "17-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt0120755",
+        "isRewatch": true
+    },
+    {
+        "id": "2025-movies-028",
+        "title": "Misión imposible 3",
+        "review": 2,
+        "date": "25-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt0317919",
+        "isRewatch": true
+    },
+    {
+        "id": "2025-movies-029",
+        "title": "Misión imposible: Protocolo fantasma",
+        "review": 2.5,
+        "date": "25-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt1229238"
+    },
+    {
+        "id": "2025-movies-030",
+        "title": "Lilo & Stitch",
+        "version": "live-action",
+        "review": 2.5,
+        "date": "27-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt11655566"
+    },
+    {
+        "id": "2025-movies-031",
+        "title": "Misión imposible: Nación secreta",
+        "review": 2.5,
+        "date": "31-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt2381249"
+    },
+    {
+        "id": "2025-movies-032",
+        "title": "De naturaleza violenta",
+        "review": 2.5,
+        "date": "07-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt30321146"
+    },
+    {
+        "id": "2025-movies-033",
+        "title": "El exorcismo de Eastfield",
+        "review": 3.5,
+        "date": "14-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt16296308"
+    },
+    {
+        "id": "2025-movies-034",
+        "title": "Misión imposible: Fallout",
+        "review": 2.5,
+        "date": "15-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt4912910"
+    },
+    {
+        "id": "2025-movies-035",
+        "title": "Cómo entrenar a tu dragón",
+        "version": "live-action",
+        "review": 2.5,
+        "date": "15-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt26743210"
+    },
+    {
+        "id": "2025-movies-036",
+        "title": "Legend",
+        "review": 2,
+        "date": "21-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt0089469"
+    },
+    {
+        "id": "2025-movies-037",
+        "title": "Misión imposible: Sentencia mortal - Parte 1",
+        "review": 2.5,
+        "date": "22-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt9603212"
+    },
+    {
+        "id": "2025-movies-038",
+        "title": "Until Dawn",
+        "version": "live-action",
+        "review": 1,
+        "date": "28-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt30955489"
+    },
+    {
+        "id": "2025-movies-039",
+        "title": "El prodigio",
+        "review": 3,
+        "date": "05-07",
+        "moreInfoURL": "https://www.imdb.com/title/tt9288822"
+    },
+    {
+        "id": "2025-movies-040",
+        "title": "Las guerreras k-pop",
+        "review": 4,
+        "date": "13-07",
+        "moreInfoURL": "https://www.imdb.com/title/tt14205554"
+    },
+    {
+        "id": "2025-movies-041",
+        "title": "Elio",
+        "review": 2.5,
+        "date": "17-07",
+        "moreInfoURL": "https://www.imdb.com/title/tt4900148"
+    },
+    {
+        "id": "2025-movies-042",
+        "title": "Superman",
+        "version": "2025",
+        "review": 2.5,
+        "date": "20-07",
+        "moreInfoURL": "https://www.imdb.com/title/tt5950044"
+    },
+    {
+        "id": "2025-movies-043",
+        "title": "X",
+        "review": 3,
+        "date": "31-07",
+        "moreInfoURL": "https://www.imdb.com/title/tt13560574"
+    },
+    {
+        "id": "2025-movies-044",
+        "title": "Los Cuatro Fantásticos: primeros pasos",
+        "review": 2.5,
+        "date": "04-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt10676052"
+    },
+    {
+        "id": "2025-movies-045",
+        "title": "28 días después",
+        "review": 2,
+        "date": "05-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt0289043",
+        "isRewatch": true
+    },
+    {
+        "id": "2025-movies-046",
+        "title": "28 semanas después",
+        "review": 2,
+        "date": "08-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt0463854",
+        "isRewatch": true
+    },
+    {
+        "id": "2025-movies-047",
+        "title": "Devuélvemela",
+        "review": 4,
+        "date": "09-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt32246771"
+    },
+    {
+        "id": "2025-movies-048",
+        "title": "28 años después",
+        "review": 2.5,
+        "date": "10-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt10548174"
+    },
+    {
+        "id": "2025-movies-049",
+        "title": "Weapons",
+        "review": 4,
+        "date": "16-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt26581740"
+    },
+    {
+        "id": "2025-movies-050",
+        "title": "Agárralo como puedas",
+        "review": 2.5,
+        "date": "17-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt0095705"
+    },
+    {
+        "id": "2025-movies-051",
+        "title": "Agárralo como puedas",
+        "version": "2025",
+        "review": 2.5,
+        "date": "23-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt3402138"
+    },
+    {
+        "id": "2025-movies-052",
+        "title": "Septiembre dice",
+        "review": 3,
+        "date": "30-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt29315015"
+    },
+    {
+        "id": "2025-movies-053",
+        "title": "Expediente Warren: El último rito",
+        "review": 2.5,
+        "date": "08-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt22898462"
+    },
+    {
+        "id": "2025-movies-054",
+        "title": "John Wick",
+        "review": 2.5,
+        "date": "12-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt2911666"
+    },
+    {
+        "id": "2025-movies-055",
+        "title": "Eddington",
+        "review": 3.5,
+        "date": "13-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt31176520"
+    },
+    {
+        "id": "2025-movies-056",
+        "title": "John Wick: Pacto de sangre",
+        "review": 2.5,
+        "date": "18-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt4425200"
+    },
+    {
+        "id": "2025-movies-057",
+        "title": "Un gran viaje atrevido y maravilloso",
+        "review": 3,
+        "date": "20-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt13650700"
+    },
+    {
+        "id": "2025-movies-058",
+        "title": "John Wick: Capítulo 3 - Parabellum",
+        "review": 2.5,
+        "date": "26-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt6146586"
+    },
+    {
+        "id": "2025-movies-059",
+        "title": "Misión imposible: Sentencia final",
+        "review": 3,
+        "date": "05-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt9603208"
+    },
+    {
+        "id": "2025-movies-060",
+        "title": "Una batalla tras otra",
+        "review": 3,
+        "date": "11-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt30144839"
+    },
+    {
+        "id": "2025-movies-061",
+        "title": "John Wick 4",
+        "review": 2.5,
+        "date": "17-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt10366206"
+    },
+    {
+        "id": "2025-movies-062",
+        "title": "Eraserhead",
+        "review": 4,
+        "date": "18-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt0074486"
+    },
+    {
+        "id": "2025-movies-063",
+        "title": "Good Boy",
+        "review": 3,
+        "date": "18-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt35521922"
+    },
+    {
+        "id": "2025-movies-064",
+        "title": "El exorcista del Papa",
+        "review": 2.5,
+        "date": "25-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt13375076"
+    },
+    {
+        "id": "2025-movies-065",
+        "title": "Frankestein",
+        "version": "2025",
+        "review": 4.5,
+        "date": "26-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt1312221"
+    },
+    {
+        "id": "2025-movies-066",
+        "title": "Together",
+        "review": 4,
+        "date": "01-11",
+        "moreInfoURL": "https://www.imdb.com/title/tt31184028"
+    }
 ]

@@ -1,16 +1,23 @@
 [
-  {
-    "id": "2025-books-001",
-    "title": "Ambessa. Elegida del lobo",
-    "review": 2.5,
-    "date": "25-05",
-    "moreInfoURL": "https://www.goodreads.com/book/show/222849473"
-  },
-  {
-    "id": "2025-books-002",
-    "title": "I Antología de Cabezología: Historias fantásticas, cósmicas y terroríficas de catorce brujitas desternillantes",
-    "review": 3,
-    "date": "03-08",
-    "moreInfoURL": "https://www.goodreads.com/es/book/show/221305317"
-  }
+    {
+        "id": "2025-books-001",
+        "title": "Ambessa. Elegida del lobo",
+        "review": 2.5,
+        "date": "25-05",
+        "moreInfoURL": "https://www.goodreads.com/book/show/220609772-ambessa"
+    },
+    {
+        "id": "2025-books-002",
+        "title": "I Antología de Cabezología: Historias fantásticas, cósmicas y terroríficas de catorce brujitas desternillantes",
+        "review": 3,
+        "date": "03-08",
+        "moreInfoURL": "https://www.goodreads.com/book/show/221132015-i-antologia-de-cabezolog-a"
+    },
+    {
+        "id": "2025-books-003",
+        "title": "Los que quemamos",
+        "review": 2.5,
+        "date": "27-10",
+        "moreInfoURL": "https://www.goodreads.com/book/show/60320573-the-ones-we-burn"
+    }
 ]
