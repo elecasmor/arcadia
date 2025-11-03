@@ -76,5 +76,12 @@
     "review": 2.5,
     "date": "07-09",
     "moreInfoURL": "https://www.igdb.com/games/zelda-ii-the-adventure-of-link"
+  },
+  {
+    "id": "2025-games-012",
+    "title": "Hollow Knight: Silksong",
+    "review": 5,
+    "date": "08-10",
+    "moreInfoURL": "https://www.igdb.com/games/hollow-knight-silksong"
   }
 ]

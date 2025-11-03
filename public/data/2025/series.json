@@ -1,102 +1,202 @@
 [
-  {
-    "id": "2025-series-001",
-    "title": "Separación",
-    "season": 1,
-    "review": 5,
-    "date": "01-02",
-    "moreInfoURL": "https://www.imdb.com/title/tt11280740"
-  },
-  {
-    "id": "2025-series-002",
-    "title": "Celeste",
-    "review": 2,
-    "date": "10-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt31262522"
-  },
-  {
-    "id": "2025-series-003",
-    "title": "Separación",
-    "season": 2,
-    "review": 5,
-    "date": "21-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt11280740"
-  },
-  {
-    "id": "2025-series-004",
-    "title": "Yellowjackets",
-    "season": 1,
-    "review": 4,
-    "date": "31-03",
-    "moreInfoURL": "https://www.imdb.com/title/tt11041332"
-  },
-  {
-    "id": "2025-series-005",
-    "title": "Adolescencia",
-    "review": 4,
-    "date": "06-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt31806037"
-  },
-  {
-    "id": "2025-series-006",
-    "title": "The White Lotus",
-    "season": 3,
-    "review": 5,
-    "date": "07-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt13406094"
-  },
-  {
-    "id": "2025-series-007",
-    "title": "Yellowjackets",
-    "season": 2,
-    "review": 3,
-    "date": "19-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt11041332"
-  },
-  {
-    "id": "2025-series-008",
-    "title": "Yellowjackets",
-    "season": 3,
-    "review": 3,
-    "date": "24-04",
-    "moreInfoURL": "https://www.imdb.com/title/tt11041332"
-  },
-  {
-    "id": "2025-series-009",
-    "title": "The Last of Us",
-    "season": 2,
-    "review": 3,
-    "date": "30-05",
-    "moreInfoURL": "https://www.imdb.com/title/tt3581920"
-  },
-  {
-    "id": "2025-series-010",
-    "title": "Cuando nadie nos ve",
-    "review": 2,
-    "date": "04-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt28229356"
-  },
-  {
-    "id": "2025-series-011",
-    "title": "The Bear",
-    "season": 4,
-    "review": 5,
-    "date": "28-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt14452776"
-  },
-  {
-    "id": "2025-series-012",
-    "title": "El juego del calamar",
-    "season": 3,
-    "review": 2,
-    "date": "30-06",
-    "moreInfoURL": "https://www.imdb.com/title/tt10919420"
-  },
-  {
-    "id": "2025-series-013",
-    "title": "Ironheart",
-    "review": 2.5,
-    "date": "11-07",
-    "moreInfoURL": "https://www.imdb.com/title/tt13623126"
-  }
+    {
+        "id": "2025-series-001",
+        "title": "Separación",
+        "season": 1,
+        "review": 5,
+        "date": "01-02",
+        "moreInfoURL": "https://www.imdb.com/title/tt11280740"
+    },
+    {
+        "id": "2025-series-002",
+        "title": "Celeste",
+        "review": 2,
+        "date": "10-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt31262522"
+    },
+    {
+        "id": "2025-series-003",
+        "title": "Separación",
+        "season": 2,
+        "review": 5,
+        "date": "21-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt11280740"
+    },
+    {
+        "id": "2025-series-004",
+        "title": "Yellowjackets",
+        "season": 1,
+        "review": 4,
+        "date": "31-03",
+        "moreInfoURL": "https://www.imdb.com/title/tt11041332"
+    },
+    {
+        "id": "2025-series-005",
+        "title": "Adolescencia",
+        "review": 4,
+        "date": "06-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt31806037"
+    },
+    {
+        "id": "2025-series-006",
+        "title": "The White Lotus",
+        "season": 3,
+        "review": 5,
+        "date": "07-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt13406094"
+    },
+    {
+        "id": "2025-series-007",
+        "title": "Yellowjackets",
+        "season": 2,
+        "review": 3,
+        "date": "19-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt11041332"
+    },
+    {
+        "id": "2025-series-008",
+        "title": "Yellowjackets",
+        "season": 3,
+        "review": 3,
+        "date": "24-04",
+        "moreInfoURL": "https://www.imdb.com/title/tt11041332"
+    },
+    {
+        "id": "2025-series-009",
+        "title": "The Last of Us",
+        "season": 2,
+        "review": 3,
+        "date": "30-05",
+        "moreInfoURL": "https://www.imdb.com/title/tt3581920"
+    },
+    {
+        "id": "2025-series-010",
+        "title": "Cuando nadie nos ve",
+        "review": 2,
+        "date": "04-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt28229356"
+    },
+    {
+        "id": "2025-series-011",
+        "title": "The Bear",
+        "season": 4,
+        "review": 5,
+        "date": "28-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt14452776"
+    },
+    {
+        "id": "2025-series-012",
+        "title": "El juego del calamar",
+        "season": 3,
+        "review": 2,
+        "date": "30-06",
+        "moreInfoURL": "https://www.imdb.com/title/tt10919420"
+    },
+    {
+        "id": "2025-series-013",
+        "title": "Ironheart",
+        "review": 2.5,
+        "date": "11-07",
+        "moreInfoURL": "https://www.imdb.com/title/tt13623126"
+    },
+    {
+        "id": "2025-series-013",
+        "title": "The Big Bang Theory",
+        "season": 1,
+        "date": "06-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-014",
+        "title": "The Big Bang Theory",
+        "season": 2,
+        "date": "12-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-015",
+        "title": "The Big Bang Theory",
+        "season": 3,
+        "date": "19-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-016",
+        "title": "The Big Bang Theory",
+        "season": 4,
+        "date": "26-08",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-017",
+        "title": "The Big Bang Theory",
+        "season": 5,
+        "date": "02-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-018",
+        "title": "The Big Bang Theory",
+        "season": 6,
+        "date": "09-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-018",
+        "title": "The Big Bang Theory",
+        "season": 7,
+        "date": "16-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-020",
+        "title": "The Big Bang Theory",
+        "season": 8,
+        "date": "23-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-021",
+        "title": "The Big Bang Theory",
+        "season": 9,
+        "date": "30-09",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-022",
+        "title": "The Big Bang Theory",
+        "season": 10,
+        "date": "07-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-023",
+        "title": "The Big Bang Theory",
+        "season": 11,
+        "date": "13-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-024",
+        "title": "The Big Bang Theory",
+        "season": 12,
+        "date": "20-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt0898266"
+    },
+    {
+        "id": "2025-series-025",
+        "title": "The Leftovers",
+        "season": 1,
+        "review": 2.5,
+        "date": "28-10",
+        "moreInfoURL": "https://www.imdb.com/title/tt2699128"
+    },
+    {
+        "id": "2025-series-026",
+        "title": "The Leftovers",
+        "season": 2,
+        "review": 3.5,
+        "date": "03-11",
+        "moreInfoURL": "https://www.imdb.com/title/tt2699128"
+    }
 ]
